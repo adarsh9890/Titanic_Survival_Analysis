@@ -1,12 +1,14 @@
 # Titanic_Survival_Analysis
 
 **Exploratory data analysis** of the Titanic dataset using Python, Pandas, SQL, and visualization libraries to uncover patterns influencing passenger survival.
+
 The project demonstrates a complete data analysis workflow, including data preprocessing, exploratory data analysis (EDA), SQL-based analysis, and dashboard visualization.
 
 ---
 
 ## Project Overview
 The goal of this project is to analyze the Titanic dataset and discover patterns that influenced survival during the Titanic disaster.
+
 Using Python, Pandas, MySQL, and Power BI, the project investigates how variables such as gender, passenger class, age, and fare impacted survival rates.
 
 ---
@@ -20,6 +22,7 @@ The dataset contains information about passengers aboard the Titanic, including:
 - Ticket fare
 - Embarkation port
 - Survival status
+
 The dataset is used for data cleaning, analysis, and visualization.
 
 ---
@@ -55,6 +58,7 @@ Survival rate by passenger class
 Survival rate by gender
 Average fare by passenger class
 Passenger count by embarkation port
+
 **4. Power BI Dashboard**
 An interactive Power BI dashboard was created to visualize key insights from the dataset.
 Dashboard includes:
