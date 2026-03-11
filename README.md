@@ -40,27 +40,27 @@ The dataset is used for data cleaning, analysis, and visualization.
 **1. Data Preprocessing (Python & Pandas)**
 The dataset was loaded into Jupyter Notebook and cleaned using Python libraries.
 
--Handling missing values
--Removing unnecessary columns
--Formatting data types
--Preparing data for analysis
+- Handling missing values
+- Removing unnecessary columns
+- Formatting data types
+- Preparing data for analysis
 
 **2. Exploratory Data Analysis (EDA)**
 Exploratory analysis was conducted to understand patterns in the dataset, including:
 
--Survival distribution
--Passenger demographics
--Relationship between survival and passenger class
--Impact of gender and age on survival
+- Survival distribution
+- Passenger demographics
+- Relationship between survival and passenger class
+- Impact of gender and age on survival
 
 **3. SQL Analysis (MySQL)**
 The cleaned dataset was imported into MySQL to perform additional analysis using SQL queries.
 Examples of analysis:
 
--Survival rate by passenger class
--Survival rate by gender
--Average fare by passenger class
--Passenger count by embarkation port
+- Survival rate by passenger class
+- Survival rate by gender
+- Average fare by passenger class
+- Passenger count by embarkation port
 
 **4. Power BI Dashboard**
 An interactive Power BI dashboard was created to visualize key insights from the dataset.
