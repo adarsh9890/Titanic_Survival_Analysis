@@ -78,11 +78,7 @@ Dashboard includes:
 ---
 
 ## How to Run the Project
-
 1. Clone or download the repository.
-
 2. Open the Jupyter Notebook (.ipynb) file to view the data preprocessing and analysis done using Python and Pandas.
-
 3. Run the SQL queries in your MySQL database to perform additional analysis.
-
 4. Open the Power BI (.pbix) file in Power BI Desktop to view the interactive dashboard.
