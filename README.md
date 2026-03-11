@@ -67,8 +67,22 @@ Dashboard includes:
 - Survival by passenger class
 - Age distribution of passengers
 - Fare analysis
+  
+---
 
 ## Key Insights
 - Female passengers had a higher survival rate compared to male passengers.
 - Passengers in first class had a higher chance of survival.
 - Age and fare also influenced survival patterns.
+
+---
+
+## How to Run the Project
+
+1. Clone or download the repository.
+
+2. Open the Jupyter Notebook (.ipynb) file to view the data preprocessing and analysis done using Python and Pandas.
+
+3. Run the SQL queries in your MySQL database to perform additional analysis.
+
+4. Open the Power BI (.pbix) file in Power BI Desktop to view the interactive dashboard.
