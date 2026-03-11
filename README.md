@@ -38,7 +38,7 @@ The dataset is used for data cleaning, analysis, and visualization.
 
 ## Project Workflow
 **1. Data Preprocessing (Python & Pandas)**
-The dataset was loaded into Jupyter Notebook and cleaned using Python libraries
+The dataset was loaded into Jupyter Notebook and cleaned using Python libraries.
 Handling missing values
 Removing unnecessary columns
 Formatting data types
